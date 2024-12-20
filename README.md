@@ -9,8 +9,7 @@ GloriousSafari.com is a tour website designed for adventure enthusiasts to explo
 
 ## Technologies Used
 - HTML, CSS, JavaScript
-- Backend: Node.js
-- Database: MongoDB
+
 
 ## How to Use
 1. Clone the repository:
